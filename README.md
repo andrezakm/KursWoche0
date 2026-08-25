@@ -31,4 +31,12 @@ So sieht ein typischer Kurs-Ordner aus. Hier ist nur der **Kontext** gefüllt, d
 
 Es gibt kein Richtig oder Falsch. Ziel ist, ein Gefühl dafür zu bekommen, wie der Agent die Dateien in deinem Ordner liest und mit dir mitdenkt.
 
-Viel Spaß — bis zum Kurs!
+## Und dann: mach es zu deinem
+
+Wenn du Lust hast, geh gleich einen Schritt weiter und **passe die beiden Dateien in `context/` auf deine eigene Situation an**: Schreib in `company.md`, was ihr wirklich macht, und in `strategy.md`, wo ihr gerade strategisch steht.
+
+Und dann passiert etwas Schönes: Der Agent weiß ab sofort immer, **„wer wir sind"** — bei jeder Frage, in jedem neuen Chat. Du musst deinen Kontext nie wieder neu erklären; er liegt im Ordner und wird automatisch mitgelesen.
+
+---
+
+**So, genug für heute!** 🎉 In den nächsten Tagen geht es weiter — mit dem echten, ersten Modul. Bis dann! 👋
